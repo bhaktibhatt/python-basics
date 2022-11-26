@@ -25,3 +25,5 @@ print(Str)
 print(str2.capitalize()) #upper case str2[0] only
 print(str2.upper())
 print(len(str2))
+
+
