@@ -17,7 +17,7 @@ print("list unpack")
 print(num3)
 
 print("List built in functions~")
-#to add vals in list we can use list.insert(index,'val') ; list.append() ; list.extend(list2)
+#to add vals in list we can use list.insert(index,'val') ; list.append() ; list.extend(list2ṇ)
 
 print("\nSort-->")
 num3.sort()
